@@ -13,7 +13,7 @@ Python : Pandas, numpy, matplotlib
 Jupyter Notebook : entorno interactivo para análisis.
 Conjunto de datos CSV : contiene datos sobre el comportamiento del usuario.
 
-## 🔑Pasos clave
+## 🔑Key steps
 1. Data Loading and Cleaning
 
     Three datasets were integrated: diet, physical activity, and childhood anthropometry.
